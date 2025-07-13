@@ -1,7 +1,7 @@
 # 🛡️ DhanRakshak – Financial Literacy App
 
 👥 **Contributors**  
-- [Mihir Kahate](https://www.linkedin.com/in/mihir-kahate-a63768309/)  
+- [Anup Raut]([https://www.linkedin.com/in/mihir-kahate-a63768309/](https://in.linkedin.com/in/anup-raut-a45b03118))  
 - [Saurabh Shendurkar](https://www.linkedin.com/in/saurabh-shendurkar-8a3753264/)
 
 📺 **Watch the Prototype Demo on YouTube**  
